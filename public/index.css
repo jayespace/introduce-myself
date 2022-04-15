@@ -77,8 +77,15 @@ header ul li a {
   .box1 {
     display: none;
   }
+
   .box2 {
     padding: 0 10px;
+  }
+  #intro img {
+    display: block !important;
+    transform: scale(0.7) translate(0px, -100px);
+    padding: 0;
+    border: solid;
   }
 }
 
@@ -128,6 +135,10 @@ img {
 
   font-family: 'Dongle', sans-serif;
   font-size: 30px;
+}
+
+#intro img {
+  display: none;
 }
 
 .box2 h3 {
