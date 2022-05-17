@@ -25,7 +25,7 @@ function tab2() {
     document.getElementById('pop').innerHTML =
     `<h3>관심 분야 또는 기술</h3></br>
     <div>
-    <li>클라우드</li>
+    <li>클라우드 관련</li>
     <img src="img/logo.png" alt="logo">
     </div>`
 }
