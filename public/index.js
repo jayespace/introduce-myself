@@ -25,9 +25,8 @@ function tab2() {
     document.getElementById('pop').innerHTML =
     `<h3>관심 분야 또는 기술</h3></br>
     <div>
-    <li>미정</li>
-    <p>아직은 관심을 두고 있는 특정한 분야나 기술이 있지는 않아요.<br> 개발에 대한 분야들이 워낙 많아 어떤것이 저에게 맞을지 조차 모르는 초보 단계입니다. <br><br> 엘리스 과정을 들으면서 프론트엔드 / 백엔드에 대해 조금 더 자세하게 알아가고 싶고<br> 공부를 해 나가면서 하고 싶은 분야를 찾아갈 예정입니다.
-    </p>
+    <li>클라우드</li>
+    <img src="img/logo.png" alt="logo">
     </div>`
 }
 
